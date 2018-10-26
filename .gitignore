@@ -1,5 +1,7 @@
 # gitignore file
 
 *.png
+
 .DS_Store
 .ipynb_checkpoints/
+python-baseball-analysis.md
